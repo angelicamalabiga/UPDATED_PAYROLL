@@ -1,4 +1,4 @@
-package com.JLopez.payroll.DAO;
+package com.JLopez.payroll.dao;
 
 public class VerifyAttendanceDAO {
 
